@@ -12,4 +12,4 @@ for (let i = 1; i < arg.length; i++) {
     }
 }
 
-console.log(largest);
+console.log(largest.toString());
