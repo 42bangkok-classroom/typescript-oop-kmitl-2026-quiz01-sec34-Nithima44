@@ -4,7 +4,7 @@ if (isNaN(temp)){
     process.exit(1);
 }
 if (temp > 30){
-    console.log("Hot.");
+    console.log("Hot");
 } else {
-    console.log("Normal.");
+    console.log("Normal");
 }
